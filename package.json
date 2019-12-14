@@ -1,8 +1,8 @@
 {
-  "name": "victor-hugo",
+  "name": "silentshamcom",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
-  "repository": "netlify/victor-hugo",
+  "description": "Silent sham, based on the victor-hugo template",
+  "repository": "silentshamunc/silentshamcom",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",
