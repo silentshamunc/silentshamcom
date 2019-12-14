@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<h1 class="tc tl-ns">Silent Sham</h1>
+
+<!-- start slipsum code -->
+
+<!-- start slipsum code -->
+
+<ul class="w100 pa0 list pl0">
+{{ range .Pages }}
+  <li class="">
+      <hr class="w5 tl bb center ml0-ns"/>
+      <a class="link dim" href="{{.Params.link}}">{{.Title}}</a>
+      <br/>
+      {{.Params.source}}. {{.Date.Format "Jan 2, 2006" }}.
+  </li>
+{{ end}}
+</ul>
+
+
+<!-- end slipsum code -->
+{{ end }}
