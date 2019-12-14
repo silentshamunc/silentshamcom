@@ -1,7 +1,5 @@
 # Silent Sham
 
-****
-
 The Silent Sham website is automatically generated from this repo.
 
 ### How to submit a new article about the Silent Sham:
@@ -26,9 +24,6 @@ link:
 source: 
 ---
 ```
-
-Your submission needs to be approved before it appears on the site. Thanks for helping keep track of
-the seemingly endless deluge of bad press around the 2.5 millon dollar Silent Sham.
 
 
 # Building the website independently

@@ -7,14 +7,17 @@
 <!-- start slipsum code -->
 
 <ul class="w100 pa0 list pl0">
-{{ range .Pages }}
+
+{{ range where .Pages "Title" "Links" }}
+  {{ range .Pages }}
   <li class="">
       <hr class="w5 tl bb center ml0-ns"/>
       <a class="link dim" href="{{.Params.link}}">{{.Title}}</a>
       <br/>
       {{.Params.source}}. {{.Date.Format "Jan 2, 2006" }}.
   </li>
-{{ end}}
+  {{ end }}
+{{ end }}
 </ul>
 
 
