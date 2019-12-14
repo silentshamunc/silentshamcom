@@ -9,9 +9,10 @@ The Silent Sham website is automatically generated from this repo.
 You need to create a free GitHub account (sorry).
 
 1. Go to [this link](https://github.com/silentshamunc/silentshamcom/new/master/site/content).
-2. After the `silentshamcom/site/content/`, there's an input box that asks you to "Name your file". Name
-   the file something like `2019-12-25-timesgazette.md`. The title isn't actually important, but the `.md`
-   at the end is.
+2. After the `silentshamcom/site/content/`, there's an input box that asks you to "Name your file". If
+   the article was published on Christmas in the Charlotte Weekly, name
+   the file something like `2019-12-25-charlotteweekly.md`. The `.md`
+   at the end is important.
 3. Underneath "Edit new file", copy and complete the following template.
 4. Click the green "Propose new file" button. You can just ignore the text fields under "Propose new file."
 
@@ -27,7 +28,7 @@ source:
 ```
 
 Your submission needs to be approved before it appears on the site. Thanks for helping keep track of
-the endless deluge of bad press around the 2.5 millon dollar Silent Sham.
+the seemingly endless deluge of bad press around the 2.5 millon dollar Silent Sham.
 
 
 # Building the website independently
