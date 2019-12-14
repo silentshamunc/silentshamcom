@@ -2,11 +2,38 @@
 
 ****
 
-The Silent Sham website is automatically generated from this repo. Please feel free to add
-an article about the 2.5 million dollar Silent Sham by creating a pull request that adds
-files to the `site/content` directory.
+The Silent Sham website is automatically generated from this repo.
+
+### How to submit a new article about the Silent Sham:
+
+You need to create a free GitHub account (sorry).
+
+1. Go to [this link](https://github.com/silentshamunc/silentshamcom/new/master/site/content).
+2. After the `silentshamcom/site/content/`, there's an input box that asks you to "Name your file". Name
+   the file something like `2019-12-25-timesgazette.md`. The title isn't actually important, but the `.md`
+   at the end is.
+3. Underneath "Edit new file", copy and complete the following template.
+4. Click the green "Propose new file" button. You can just ignore the text fields under "Propose new file."
+
+Template:
+
+```
+---
+date: 2019-12-XX
+title: 
+link: 
+source: 
+---
+```
+
+Your submission needs to be approved before it appears on the site. Thanks for helping keep track of
+the endless deluge of bad press around the 2.5 millon dollar Silent Sham.
+
+
+# Building the website independently
 
 This repo is based on the [victor-hugo](https://github.com/netlify-templates/victor-hugo) template by Netlify.
+If, for some reason, you want to build it on your home computer, I guess you can do that.
 
 ### :exclamation: Prerequisites
 
