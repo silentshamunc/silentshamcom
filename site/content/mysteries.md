@@ -42,9 +42,15 @@ From [this twitter thread](https://twitter.com/greg_doucette/status/120591273288
 
 #### What was the basis for arriving at the $2.5 million figure?
 
-The most frightening possibility is that it was a response to the North
-Carolina General Assembly's budgeting of $2.5 million dollars for
-a statue honoring African Americans. ([source](https://twitter.com/greg_doucette/status/1205026140840218630))
+The most disturbing possibility, suggested by
+[Dawn Vaughn](https://twitter.com/dawnbvaughan) on the
+December 5 Under the Dome podcast, is that it may have been a response
+to the North Carolina General Assembly's allocation of $2.5 million
+dollars for a
+[monument to African Americans at the State Capitol](https://www.newsobserver.com/news/politics-government/article232254627.html).
+([source](https://twitter.com/greg_doucette/status/1204216287917944832))
+
+
 
 ------
 
