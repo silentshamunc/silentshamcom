@@ -42,7 +42,9 @@ From [this twitter thread](https://twitter.com/greg_doucette/status/120591273288
 
 #### What was the basis for arriving at the $2.5 million figure?
 
-The most frightening possibility 
+The most frightening possibility is that it was a response to the North
+Carolina General Assembly's budgeting of $2.5 million dollars for
+a statue honoring African Americans. ([source](https://twitter.com/greg_doucette/status/1205026140840218630))
 
 ------
 
