@@ -5,4 +5,8 @@ source: News & Observer
 link: https://www.newsobserver.com/news/local/education/article237966919.html
 cases:
  - shamsettlement
+tags:
+ - victoryletter
+ - sturges
+ - stone
 ---

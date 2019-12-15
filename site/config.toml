@@ -10,3 +10,4 @@ disableKinds = ["RSS"]
 
 [taxonomies]
   case = "cases"
+  tag = "tags"

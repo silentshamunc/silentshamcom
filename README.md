@@ -45,8 +45,15 @@ cases:
 Current tags:
 
  * `donors` - stories about lost donations to UNC or UNC-CH due to the sham settlement (especially the Mellon Foundation $1.5 grant)
+ * `lawcom` - stories mentioning the Lawyer's Committee
+ * `shanahan` - stories mentioning Tom Shanahan
+ * `sturges` - stories mentioning SCV maybe-maybe-not lawyer Boyd Sturges
+ * `stone` - stories mentioning NCSCV "commander" Kevin Stone
+ * `trust` - stories that mention the Monument Trust
+ * `victoryletter` - stories mentioning Kevin Stone's "victory letter"
+ * `womble` - stories mentioning Womble Bond Dickinson
 
-Current tags:
+Current cases:
 
  * `shamsettlement` - the start that started it all
  * `dmca` - the DMCA countersuit

@@ -1,8 +1,13 @@
 {{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
 <article class="content">
   <h2 class="tc tl-ns">{{ .Title }}</h2>
-  <hr class="w5 tl bb center ml0-ns"/>
   <main>{{- .Content -}}</main>
-
+<ul class="">
+  {{ range .Pages }}
+  <li class="">
+      <a class="link dim" href="{{.Permalink}}">{{.Title}}</a>
+  </li>
+  {{ end }}
+</ul>
 </article>
 {{ end }}
