@@ -2,6 +2,7 @@
 title: Mysteries, Puzzles, and Unanswered Questions
 ---
 
+
 From [this twitter thread](https://twitter.com/greg_doucette/status/1205912732882677760) of unanswered questions. 
 
 #### Which party approached the other to settle?
