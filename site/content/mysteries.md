@@ -47,10 +47,11 @@ The most disturbing possibility, suggested by
 December 5 Under the Dome podcast, is that it may have been a response
 to the North Carolina General Assembly's allocation of $2.5 million
 dollars for a
-[monument to African Americans at the State Capitol](https://www.newsobserver.com/news/politics-government/article232254627.html).
-([source](https://twitter.com/greg_doucette/status/1204216287917944832))
+[monument to African Americans at the State Capitol](https://www.newsobserver.com/news/politics-government/article232254627.html)
+([source](https://twitter.com/greg_doucette/status/1204216287917944832)).
 
-
+Currently, this is mostly just speculation, but like,
+[they really might be that dumb](https://twitter.com/greg_doucette/status/1204433603943383040).
 
 ------
 
