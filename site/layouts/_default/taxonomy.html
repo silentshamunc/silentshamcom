@@ -3,5 +3,17 @@
   <h2 class="tc tl-ns">{{ .Title }}</h2>
   <hr class="w5 tl bb center ml0-ns"/>
   <main>{{- .Content -}}</main>
+
+<h3>News about this case</h3>
+<ul class="w100 pa0 list pl0">
+  {{ range .Pages }}
+  <li class="">
+      <hr class="w5 tl bb center ml0-ns"/>
+      <a class="link dim" href="{{.Params.link}}">{{.Title}}</a>
+      <br/>
+      {{.Params.source}}. {{.Date.Format "Jan 2, 2006" }}.
+  </li>
+  {{ end }}
+</ul>
 </article>
 {{ end }}

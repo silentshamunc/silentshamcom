@@ -4,5 +4,5 @@ date: 2019-12-01
 source: BoingBoing
 link: https://boingboing.net/2019/12/01/klan-museum-by-unc.html
 cases:
- - sham-settlement
+ - shamsettlement
 ---
