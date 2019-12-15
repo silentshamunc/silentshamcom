@@ -2,10 +2,9 @@
 title: Mysteries, Puzzles, and Unanswered Questions
 ---
 
-From [this twitter thread](https://twitter.com/greg_doucette/status/1205912732882677760) of unanswered questions. Questions without stated answers are still unanswered.
+From [this twitter thread](https://twitter.com/greg_doucette/status/1205912732882677760) of unanswered questions. 
 
 #### Which party approached the other to settle?
-
 
 #### What communications, if any, did UNC officials/lawyers have with UDC in the days immediately prior to UDC assigning their interest in Silent Sam to SCV?
 
@@ -23,7 +22,7 @@ From [this twitter thread](https://twitter.com/greg_doucette/status/120591273288
 
 ------
 
-### The Timeline
+## The Timeline
 
 #### What date did settlement negotiations begin?
 
@@ -39,13 +38,15 @@ From [this twitter thread](https://twitter.com/greg_doucette/status/120591273288
 
 ------
 
-### The Payout
+## The Payout
 
 #### What was the basis for arriving at the $2.5 million figure?
 
+The most frightening possibility 
+
 ------
 
-### The Documents
+## The Documents
 
 #### Who drafted the Complaint?
 
@@ -59,7 +60,7 @@ TGD has off-the-record suggestions that it was drafted by Womble Bond Dickinson 
 
 ------
 
-### The North Carolina Attorney General
+## The North Carolina Attorney General
 
 #### What date was the Attorney General's Office contacted about the settlement?
 
@@ -69,7 +70,7 @@ TGD has off-the-record suggestions that it was drafted by Womble Bond Dickinson 
 
 ------
 
-### The Silent Sham Trust
+## The Silent Sham Trust
 
 #### When was the trust established?
 

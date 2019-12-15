@@ -22,8 +22,35 @@ date: 2019-12-XX
 title: 
 link: 
 source: 
+cases:
+tags:
 ---
 ```
+
+Here's an example:
+
+```
+---
+date: 2019-12-13
+title: "'Silent Sam' deal cost UNC-CH a $1.5M grant from major foundation donor"
+source: WRAL
+link: https://www.wral.com/silent-sam-deal-cost-unc-ch-a-1-5m-grant-from-major-foundation-donor/18830069/
+tags:
+ - donors
+cases:
+ - shamsettlement
+---
+```
+
+Current tags:
+
+ * `donors` - stories about lost donations to UNC or UNC-CH due to the sham settlement (especially the Mellon Foundation $1.5 grant)
+
+Current tags:
+
+ * `shamsettlement` - the start that started it all
+ * `dmca` - the DMCA countersuit
+
 
 
 # Building the website independently
