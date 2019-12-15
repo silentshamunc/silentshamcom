@@ -45,6 +45,7 @@ cases:
 Current tags:
 
  * `donors` - stories about lost donations to UNC or UNC-CH due to the sham settlement (especially the Mellon Foundation $1.5 grant)
+ * `lawcom` - stories about intervention by the Lawyers' Committee
 
 Current tags:
 
