@@ -46,25 +46,22 @@ Current tags:
 
  * `donors` - stories about lost donations to UNC or UNC-CH due to the sham settlement (especially the Mellon Foundation $1.5 grant)
  * `lawcom` - stories mentioning the Lawyer's Committee
+ * `ncscv` - stories mentioning North Carolina Sons of Confederate Veterens (most of them, but it would be a good place to put stuff like https://projects.propublica.org/nonprofits/organizations/581329948)
+ * `randazza` - stories mentioning Marc Randazza
  * `shanahan` - stories mentioning Tom Shanahan
  * `sturges` - stories mentioning SCV maybe-maybe-not lawyer Boyd Sturges
  * `stone` - stories mentioning NCSCV "commander" Kevin Stone
+ * `tgd` - stories mentioning TGD
  * `trust` - stories that mention the Monument Trust
  * `victoryletter` - stories mentioning Kevin Stone's "victory letter"
+ * `vroom` - stories mentioning Stone's motorcycle fun times
+ * `wolman` - stories mentioning Jay Wolman
  * `womble` - stories mentioning Womble Bond Dickinson
 
 Current cases:
 
  * `shamsettlement` - the start that started it all
  * `dmca` - the DMCA countersuit
-
-Tags that need to be systematically added later:
-
- * `ncscv` - stories mentioning North Carolina Sons of Confederate Veterens (most of them, but it would be a good place to put stuff like https://projects.propublica.org/nonprofits/organizations/581329948)
- * `randazza` - stories mentioning Marc Randazza
- * `tgd` - stories mentioning TGD
- * `vroom` - stories mentioning Stone's motorcycle fun times
- * `wolman` - stories mentioning Jay Wolman
 
 
 # Building the website independently
