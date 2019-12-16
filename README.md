@@ -67,6 +67,7 @@ Tags that should be systematically added later
  * `bog` - articles mentioning the UNC BOG
  * `guskiewicz` - articles mentioning Kevin Guskiewicz
  * `roper` - articles mentioning William Roper
+ * `stein` - articles mentioning NC Attorney General Josh Stein
 
 # Building the website independently
 
