@@ -86,6 +86,8 @@ TGD has off-the-record suggestions that it was drafted by Womble Bond Dickinson 
 
 #### Where is the trust agreement?
 
+> "The trust will be held “independently by a non-party trustee,” but the UNC System has not specified who administers the money or how it will be distributed." - [News and Observer, December 2](https://www.newsobserver.com/news/local/education/article237966919.html)
+
 #### How many trustees oversee it? 1? 3?
 
 #### Who are the trustees?
