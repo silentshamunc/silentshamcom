@@ -5,4 +5,7 @@ source: Charlotte Observer
 link: https://www.charlotteobserver.com/opinion/editorials/article237948009.html
 cases:
  - shamsettlement
+tags:
+ - tgd
+ - ncscv
 ---
