@@ -7,4 +7,6 @@ cases:
  - shamsettlement
 tags:
  - stone
+ - ncscv
+ - tgd
 ---

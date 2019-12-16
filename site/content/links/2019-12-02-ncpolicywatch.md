@@ -5,4 +5,7 @@ source: NC Policy Watch
 link: https://pulse.ncpolicywatch.org/2019/12/02/calling-uncs-2-5-million-silent-sam-payout-a-sham-is-overly-kind/
 cases:
  - shamsettlement
+tags:
+ - ncscv
+ - tgd
 ---

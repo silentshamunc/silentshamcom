@@ -7,4 +7,6 @@ cases:
  - shamsettlement
 tags:
  - shanahan
+ - ncscv
+ - tgd
 ---

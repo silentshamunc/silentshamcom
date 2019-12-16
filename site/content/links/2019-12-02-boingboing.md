@@ -7,4 +7,6 @@ cases:
  - dmca
 tags:
  - stone
+ - tgd
+ - ncscv
 ---
