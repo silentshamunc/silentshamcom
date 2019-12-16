@@ -4,6 +4,7 @@ title: UNC’s Silent Sam Settlement Was Reached Quickly. The Blowback Might Las
 source: The Chronicle of Higher Education
 date: 2019-12-07
 tags:
+ - ncscv
 cases:
  - shamsettlement
 ---
