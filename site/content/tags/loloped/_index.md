@@ -1,5 +1,5 @@
 ---
-December 16 Op-Ed
+title: December 16 Op-Ed
 ---
 
 On December 16, four members of the UNC Board of Governors wrote an
