@@ -7,7 +7,7 @@ tags:
  - tgd
  - victoryletter
  - randazza
- - sturgis
+ - sturges
  - ncscv
 cases:
  - dmca
