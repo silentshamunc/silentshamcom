@@ -54,6 +54,8 @@ dollars for a
 Currently, this is mostly just speculation, but like,
 [they really might be that dumb](https://twitter.com/greg_doucette/status/1204433603943383040).
 
+#### [Where is the money now?](https://twitter.com/simAlity/status/1206241209938784256)
+
 ------
 
 ## The Documents
