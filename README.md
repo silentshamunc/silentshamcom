@@ -63,6 +63,10 @@ Current cases:
  * `shamsettlement` - the start that started it all
  * `dmca` - the DMCA countersuit
 
+Tags that should be systematically added later
+ * `bog` - articles mentioning the UNC BOG
+ * `guskiewicz` - articles mentioning Kevin Guskiewicz
+ * `roper` - articles mentioning William Roper
 
 # Building the website independently
 
