@@ -5,4 +5,6 @@ source: BoingBoing
 link: https://boingboing.net/2019/12/02/scv-dmca.html
 cases:
  - dmca
+tags:
+ - stone
 ---
