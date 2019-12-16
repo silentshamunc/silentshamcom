@@ -58,7 +58,8 @@ Current cases:
  * `shamsettlement` - the start that started it all
  * `dmca` - the DMCA countersuit
 
-Tags that need to be added:
+Tags that need to be systematically added later:
+
  * `ncscv` - stories mentioning North Carolina Sons of Confederate Veterens (most of them, but it would be a good place to put stuff like https://projects.propublica.org/nonprofits/organizations/581329948)
  * `randazza` - stories mentioning Marc Randazza
  * `tgd` - stories mentioning TGD
