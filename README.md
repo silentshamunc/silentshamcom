@@ -44,8 +44,10 @@ cases:
 
 Current tags:
 
+ * `75kgiveaway` - what on earth was going on with that $74,999 payment?
  * `donors` - stories about lost donations to UNC or UNC-CH due to the sham settlement (especially the Mellon Foundation $1.5 grant)
  * `lawcom` - stories mentioning the Lawyer's Committee
+ * `loloped` - the December 16 op-ed by BOG members
  * `ncscv` - stories mentioning North Carolina Sons of Confederate Veterens (most of them, but it would be a good place to put stuff like https://projects.propublica.org/nonprofits/organizations/581329948)
  * `randazza` - stories mentioning Marc Randazza
  * `shanahan` - stories mentioning Tom Shanahan
