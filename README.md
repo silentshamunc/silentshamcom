@@ -6,7 +6,7 @@ The Silent Sham website is automatically generated from this repo.
 
 You need to create a free GitHub account (sorry).
 
-1. Go to [this link](https://github.com/silentshamunc/silentshamcom/new/master/site/content).
+1. Go to [this link](https://github.com/silentshamunc/silentshamcom/new/master/site/content/links).
 2. After the `silentshamcom/site/content/`, there's an input box that asks you to "Name your file". If
    the article was published on Christmas in the Charlotte Weekly, name
    the file something like `2019-12-25-charlotteweekly.md`. The `.md`
@@ -46,11 +46,13 @@ Current tags:
 
  * `donors` - stories about lost donations to UNC or UNC-CH due to the sham settlement (especially the Mellon Foundation $1.5 grant)
  * `lawcom` - stories mentioning the Lawyer's Committee
+ * `randazza` - stories mentioning Marc Randazza
  * `shanahan` - stories mentioning Tom Shanahan
  * `sturges` - stories mentioning SCV maybe-maybe-not lawyer Boyd Sturges
  * `stone` - stories mentioning NCSCV "commander" Kevin Stone
  * `trust` - stories that mention the Monument Trust
  * `victoryletter` - stories mentioning Kevin Stone's "victory letter"
+ * `wolman` - stories mentioning Jay Wolman
  * `womble` - stories mentioning Womble Bond Dickinson
 
 Current cases:
