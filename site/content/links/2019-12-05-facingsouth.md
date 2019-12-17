@@ -7,6 +7,8 @@ cases:
  - shamsettlement
 tags:
  - stone
+ - baddour
+ - udc
  - tgd
  - ncscv
 ---
