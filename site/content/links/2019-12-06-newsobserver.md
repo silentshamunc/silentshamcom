@@ -8,4 +8,11 @@ cases:
 tags:
  - ncscv
  - tgd
+ - guskiewicz
+ - stein
+ - allison
+ - holmes
+ - murphy
+ - nelson
+ - rucho
 ---
