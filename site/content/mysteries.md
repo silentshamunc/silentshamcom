@@ -17,7 +17,7 @@ From [this twitter thread](https://twitter.com/greg_doucette/status/120591273288
 
 [Reference to NCGS §143B-426.40A in this tweet.](https://twitter.com/greg_doucette/status/1205912732882677760)
 
-#### Did anyone from the State Auditor's Office look "duly audit" the settlement at the time? (Possibly [@HampDellinger](https://twitter.com/HampDellinger) had mentioned this point)
+#### Did anyone from the State Auditor's Office "duly audit" the settlement at the time? (Possibly [@HampDellinger](https://twitter.com/HampDellinger) had mentioned this point)
 
 #### Was a contemporaneous "warrant for payment of the claim" issued?
 
