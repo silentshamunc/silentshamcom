@@ -45,16 +45,30 @@ cases:
 Current tags:
 
  * `75kgiveaway` - what on earth was going on with that $74,999 payment?
+ * `allison` - articles mentioning Darrell Allison
+ * `baddour` - articles mentioning Judge R. Allen Baddour
  * `donors` - stories about lost donations to UNC or UNC-CH due to the sham settlement (especially the Mellon Foundation $1.5 grant)
+ * `fetzer` - articles mentioning Tom Fetzer
+ * `goolsby` - articles mentioning Thom Goolsby
+ * `guskiewicz` - articles mentioning Kevin Guskiewicz
+ * `holmes` - articles mentioning Jim Holmes
  * `lawcom` - stories mentioning the Lawyer's Committee
  * `loloped` - the December 16 op-ed by BOG members
+ * `murphy` - articles mentioning Wendy Murphy
  * `ncscv` - stories mentioning North Carolina Sons of Confederate Veterens (most of them, but it would be a good place to put stuff like https://projects.propublica.org/nonprofits/organizations/581329948)
+ * `nelson` - articles mentioning Anna Nelson
+ * `powers` - articles mentioning David Powers
+ * `ramsey` - articles mentioning Randy Ramsey
  * `randazza` - stories mentioning Marc Randazza
+ * `roper` - articles mentioning William Roper
+ * `rucho` - articles mentioning Bob Rucho
  * `shanahan` - stories mentioning Tom Shanahan
+ * `stein` - articles mentioning NC Attorney General Josh Stein
  * `sturges` - stories mentioning SCV maybe-maybe-not lawyer Boyd Sturges
  * `stone` - stories mentioning NCSCV "commander" Kevin Stone
  * `tgd` - stories mentioning TGD
  * `trust` - stories that mention the Monument Trust
+ * `udc` - articles mentioning the United Daughters of the Confederacy
  * `victoryletter` - stories mentioning Kevin Stone's "victory letter"
  * `vroom` - stories mentioning Stone's motorcycle fun times
  * `wolman` - stories mentioning Jay Wolman
@@ -64,12 +78,6 @@ Current cases:
 
  * `shamsettlement` - the start that started it all
  * `dmca` - the DMCA countersuit
-
-Tags that should be systematically added later
- * `bog` - articles mentioning the UNC BOG
- * `guskiewicz` - articles mentioning Kevin Guskiewicz
- * `roper` - articles mentioning William Roper
- * `stein` - articles mentioning NC Attorney General Josh Stein
 
 # Building the website independently
 
