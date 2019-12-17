@@ -1,3 +1,0 @@
----
-title: Governor Roy Cooper
----
