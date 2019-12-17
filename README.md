@@ -47,6 +47,7 @@ Current tags:
  * `75kgiveaway` - what on earth was going on with that $74,999 payment?
  * `allison` - articles mentioning Darrell Allison
  * `baddour` - articles mentioning Judge R. Allen Baddour
+ * `cooper` - articles mentioning Roy Cooper
  * `donors` - stories about lost donations to UNC or UNC-CH due to the sham settlement (especially the Mellon Foundation $1.5 grant)
  * `fetzer` - articles mentioning Tom Fetzer
  * `goolsby` - articles mentioning Thom Goolsby
