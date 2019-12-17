@@ -2,6 +2,10 @@
 title: Documents
 ---
 
+### [2019-11-27 Initial Filings](https://www.dropbox.com/sh/2x2w3s0ad10vr2i/AABcONG81TLNFIP8qJe2Mmsna?dl=0)
+
+
+
 ### [2019-12-16 Document Dump](https://www.dropbox.com/sh/o81ophwajgm1z53/AABU84LJd3snGIpK5COeWE14a?dl=0)
 
 Contents:
