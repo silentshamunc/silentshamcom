@@ -6,8 +6,12 @@ date: 2019-12-04
 cases:
  - shamsettlement
 tags:
+ - ramsey
+ - roper
+ - baddour
  - ncscv
  - tgd
  - stone
  - trust
+ - victoryletter
 ---
