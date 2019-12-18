@@ -73,7 +73,7 @@ Current tags:
  * `victoryletter` - stories mentioning Kevin Stone's "victory letter"
  * `vroom` - stories mentioning Stone's motorcycle fun times
  * `wolman` - stories mentioning Jay Wolman
- * `womble` - stories mentioning Womble Bond Dickinson
+ * `womble` - stories mentioning Womble Bond Dickinson (and Ripley Rand)
 
 Current cases:
 
