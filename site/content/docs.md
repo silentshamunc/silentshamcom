@@ -6,7 +6,7 @@ title: Documents
 
 ### [2019-11-27 NCSCV "Victory Statement"](https://www.dropbox.com/sh/2x2w3s0ad10vr2i/AABcONG81TLNFIP8qJe2Mmsna?dl=0&preview=SCV+-+7+-+2019+11+27+-+Internal+Victory+Statement.pdf)
 
-Articles about the victory statement [are collected here](/tags/victorystatement/).
+Articles about the victory statement [are collected here](/tags/victoryletter/).
 
 ### [2019-12-16 Document Dump Folder](https://www.dropbox.com/sh/o81ophwajgm1z53/AABU84LJd3snGIpK5COeWE14a?dl=0)
 
