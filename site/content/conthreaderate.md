@@ -8,3 +8,4 @@ There are a lot of tweets.
  * [Public comments to the UNC System Board of Governors about #SilentSham](https://twitter.com/greg_doucette/status/1203711927396032517) - began December 8, 2019
  * [Unanswered questions about #SilentSham](https://twitter.com/greg_doucette/status/1205535682044801026) - began December 13, 2019, now moved to the [page of mysteries](/mysteries/)
  * [Line-by-line breakdown of the BoG editorial defending #SilentSham](https://twitter.com/greg_doucette/status/1206603541797855234) - began December 16, 2019
+ * [Announcement of silentsham.com and the DMCA GoFundMe](https://twitter.com/greg_doucette/status/1207155773203202048) - began December 17, 2019
