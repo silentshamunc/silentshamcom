@@ -94,11 +94,13 @@ TGD has off-the-record suggestions that it was drafted by Womble Bond Dickinson 
 
 The [Monument Trust document](https://www.dropbox.com/sh/o81ophwajgm1z53/AABU84LJd3snGIpK5COeWE14a?dl=0&preview=Document+U_Monument+Trust+Document.pdf) lists one trustee, Matthew S. McGonagle, misspelled in the document as Matthew S. McGonigle. Presumably it's [this Matthew S. McGonagle](https://narronwenzel.com/matthew-s-mcgonagle/).
 
-#### What date was it decided he~/she/they~ would be the trustees?
+#### What date was it decided he would be the trustee?
 
-#### What was the selection process for choosing the trustee(s)?
+#### What was the selection process for choosing the trustee?
 
 #### What is the selection process for replacing a trustee going forward?
+
+This is complex, but described in the [trust agreement](https://www.dropbox.com/sh/o81ophwajgm1z53/AABU84LJd3snGIpK5COeWE14a?dl=0&preview=Document+U_Monument+Trust+Document.pdf). There's a requirement that if McGonagle stops being the trustee, there must aftewards always be a corporate trustee. The trust agreement appears to provide for both the possibility of multiple trustees and for the removal of trustees by the Sons of Confederate Veterans.
 
 #### What date was the IRS Form 1023 completed to get 501(c)(3) status?
 
