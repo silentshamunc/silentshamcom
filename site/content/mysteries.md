@@ -90,9 +90,9 @@ TGD has off-the-record suggestions that it was drafted by Womble Bond Dickinson 
 
 > "The trust will be held “independently by a non-party trustee,” but the UNC System has not specified who administers the money or how it will be distributed." - [News and Observer, December 2](https://www.newsobserver.com/news/local/education/article237966919.html)
 
-#### How many trustees oversee it? 1? 3?
+#### How many trustees oversee it? 1? 3? Who are the trustees?
 
-#### Who are the trustees?
+The [Monument Trust document](https://www.dropbox.com/sh/o81ophwajgm1z53/AABU84LJd3snGIpK5COeWE14a?dl=0&preview=Document+U_Monument+Trust+Document.pdf) appears to list one trustee, Matthew S. McGonigle, whose signature is not on the document.
 
 #### What date was it decided he/she/they would be the trustees?
 
@@ -109,3 +109,5 @@ TGD has off-the-record suggestions that it was drafted by Womble Bond Dickinson 
 #### Who paid the filing fee?
 
 #### Why hasn't the Trust Agreement or 1023 been released?
+
+The [trust agreement](https://www.dropbox.com/sh/o81ophwajgm1z53/AABU84LJd3snGIpK5COeWE14a?dl=0&preview=Document+U_Monument+Trust+Document.pdf) was released on December 16, 2019.
