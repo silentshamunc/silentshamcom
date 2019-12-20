@@ -86,6 +86,8 @@ TGD has off-the-record suggestions that it was drafted by Womble Bond Dickinson 
 
 #### When was the trust established?
 
+On November 27, 2019, the same day the [original settlement](/tags/shamsettlement/) was filed.
+
 #### Where is the trust agreement?
 
 > "The trust will be held “independently by a non-party trustee,” but the UNC System has not specified who administers the money or how it will be distributed." - [News and Observer, December 2](https://www.newsobserver.com/news/local/education/article237966919.html)
