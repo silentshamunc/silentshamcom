@@ -92,9 +92,9 @@ TGD has off-the-record suggestions that it was drafted by Womble Bond Dickinson 
 
 #### How many trustees oversee it? 1? 3? Who are the trustees?
 
-The [Monument Trust document](https://www.dropbox.com/sh/o81ophwajgm1z53/AABU84LJd3snGIpK5COeWE14a?dl=0&preview=Document+U_Monument+Trust+Document.pdf) appears to list one trustee, Matthew S. McGonigle, whose signature is not on the document.
+The [Monument Trust document](https://www.dropbox.com/sh/o81ophwajgm1z53/AABU84LJd3snGIpK5COeWE14a?dl=0&preview=Document+U_Monument+Trust+Document.pdf) lists one trustee, Matthew S. McGonagle, misspelled in the document as Matthew S. McGonigle. Presumably it's [this Matthew S. McGonagle](https://narronwenzel.com/matthew-s-mcgonagle/).
 
-#### What date was it decided he/she/they would be the trustees?
+#### What date was it decided he~/she/they~ would be the trustees?
 
 #### What was the selection process for choosing the trustee(s)?
 
