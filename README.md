@@ -60,6 +60,7 @@ Current tags:
  * `nelson` - articles mentioning Anna Nelson
  * `powers` - articles mentioning David Powers
  * `ramsey` - articles mentioning Randy Ramsey
+ * `rand` - stories mentioning Ripley Rand
  * `randazza` - stories mentioning Marc Randazza
  * `roper` - articles mentioning William Roper
  * `rucho` - articles mentioning Bob Rucho
@@ -73,7 +74,7 @@ Current tags:
  * `victoryletter` - stories mentioning Kevin Stone's "victory letter"
  * `vroom` - stories mentioning Stone's motorcycle fun times
  * `wolman` - stories mentioning Jay Wolman
- * `womble` - stories mentioning Womble Bond Dickinson (and Ripley Rand)
+ * `womble` - stories mentioning Womble Bond Dickinson
 
 Current cases:
 
