@@ -10,3 +10,4 @@ There are a lot of tweets.
  * [Line-by-line breakdown of the BoG editorial defending #SilentSham](https://twitter.com/greg_doucette/status/1206603541797855234) - began December 16, 2019
  * [Announcement of silentsham.com and the DMCA GoFundMe](https://twitter.com/greg_doucette/status/1207155773203202048) - began December 17, 2019
  * [Hearing on the 1st Motion to Intervene](https://twitter.com/greg_doucette/status/1208038457286762496) - began December 20, 2019
+ * ["The Board of Governors did not want to win this case." - Ripley Rand](https://twitter.com/greg_doucette/status/1209267140097970178) - began December 23, 2019
