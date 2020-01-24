@@ -1,3 +1,0 @@
----
-title: "Clayton Somers"
----
