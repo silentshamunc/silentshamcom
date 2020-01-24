@@ -2,6 +2,8 @@
 title: The Silent Sham Cases
 ---
 
-This all began with a lawsuit filed and settled on the day before
-Thanksgiving, Wednesday 27, 2019. There are now a couple of lawsuits
-involved.
+This sordid affair all began with a collusive lawsuit filed, served, 
+answeed, and settled all in 7 minutes on the day before Thanksgiving, 
+Wednesday 27 November 2019.
+
+There are now at least three separate lawsuits involving the Silent Sham.
