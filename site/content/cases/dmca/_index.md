@@ -1,5 +1,5 @@
 ---
-title: DMCA Counter-suit
+title: DMCA §512(f) Counter-suit
 ---
 
 Shortly after the [sham settlement](/cases/shamsettlement),
