@@ -2,6 +2,11 @@
 title: DMCA §512(f) Counter-suit
 ---
 
+Also known as **Thomas Gregory Doucette and the Law Offices of T. Greg
+Doucette PLLC v Ronald Kevin Stone, the North Carolina Division Sons
+of Confederate Veterans Inc., and Dropbox Inc.**,
+[4:19-cv-08148 (NDCA)](https://twitter.com/greg_doucette/status/1205635421050429442).
+
 Shortly after the [sham settlement](/cases/shamsettlement),
 T. Greg Doucette posted to his Dropbox account an email sent to 
 members of the North Carolina Division Sons of Confederate Veterans (SCV)
