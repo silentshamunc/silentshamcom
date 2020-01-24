@@ -16,6 +16,6 @@ to submit a takedown notice to Dropbox, claiming that Mr. Doucette was
 violating SCV's copyright by posting the email and getting Dropbox to
 disable file sharing on Mr. Doucette's account for two weeks.
 
-This was a misuse of the DMCA. Mr. Doucette threatened, and ultimately
-filed, a lawsuit against the SCV under §512(f) of the DMCA in California
-for the harm they caused through their abuse of the DMCA takedown process.
+This was a misuse of the DMCA. Mr. Doucette [threatened](https://twitter.com/greg_doucette/status/1203136257720758278?s=20),
+and ultimately filed, a lawsuit against the SCV under §512(f) of the DMCA 
+in California for the harm they caused through their abuse of the DMCA takedown process.
