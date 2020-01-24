@@ -3,12 +3,14 @@ title: DMCA §512(f) Counter-suit
 ---
 
 Shortly after the [sham settlement](/cases/shamsettlement),
-Greg Doucette posted a letter sent to members of the
-North Carolina Sons of Confederate Veterans (SCV) to his Dropbox account.
-Members of the SCV misused the Digital Millennium Copyright Act (DMCA),
-claiming that Mr. Doucette was violating their copyright by
-posting the letter they wrote.
+T. Greg Doucette posted to his Dropbox account an email sent to 
+members of the North Carolina Division Sons of Confederate Veterans (SCV)
+by R. Kevin Stone, the group's "Commander". Stone, either personally or
+through an attorney, misused the Digital Millennium Copyright Act (DMCA)
+to submit a takedown notice to Dropbox, claiming that Mr. Doucette was
+violating SCV's copyright by posting the email and getting Dropbox to
+disable file sharing on Mr. Doucette's account for two weeks.
 
-This is a misuse of the DMCA, and Mr. Doucette threatened, and ultimately
-filed, a lawsuit against the SCV in California for the harm they caused
-him through their misuse of the DMCA.
+This was a misuse of the DMCA. Mr. Doucette threatened, and ultimately
+filed, a lawsuit against the SCV under §512(f) of the DMCA in California
+for the harm they caused through their abuse of the DMCA takedown process.
