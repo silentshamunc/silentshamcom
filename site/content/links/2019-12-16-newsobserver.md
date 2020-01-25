@@ -2,7 +2,7 @@
 title: "UNC System reveals it gave additional $74,999 to Confederates to stop Silent Sam protests"
 link: https://www.newsobserver.com/news/local/education/article238422873.html
 date: 2019-12-16
-source: "News & Observer"
+source: Raleigh News & Observer
 cases:
  - shamsettlement
 tags:
