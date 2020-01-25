@@ -2,7 +2,7 @@
 title: "Silent Sam payments need scrutiny by state officials"
 link: https://www.newsobserver.com/opinion/article238465533.html
 date: 2019-12-18
-source: "News & Observer"
+source: Raleigh News & Observer
 cases:
  - shamsettlement
 tags:
