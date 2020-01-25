@@ -6,4 +6,5 @@ source: News & Observer
 cases:
  - shamsettlement
 tags:
+ - donors
 ---
