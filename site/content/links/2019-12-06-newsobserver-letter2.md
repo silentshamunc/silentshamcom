@@ -1,6 +1,6 @@
 ---
 date: 2019-12-06
-title: "Letter: UNC Endowment"
+title: "Letters: UNC Endowment"
 link: https://www.newsobserver.com/opinion/letters-to-the-editor/article238042614.html
 source: News & Observer
 cases:
