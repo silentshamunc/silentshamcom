@@ -7,6 +7,8 @@ cases:
  - shamsettlement
 tags:
  - baddour
+ - fetzer
+ - guskiewicz
  - lawcom
  - ncscv
  - stein
